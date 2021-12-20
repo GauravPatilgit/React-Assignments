@@ -1,0 +1,8 @@
+.datacell1 {
+  transform: translateX(450px);
+  width: 500px;
+  height: 500px;
+}
+.datacell {
+  text-align: center;
+}
